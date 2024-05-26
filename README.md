@@ -1,2 +1,4 @@
-# yetgen corepython program
+YetGen's Core Python Program aims to teach Python skills from beginner to intermediate-advanced level to students who have graduated from YetGen's Basic education. 
+YetGen Core Python Education Program, prepared by YetGen; 12-week program supported by live lectures and question resolution sessions with YetGen leaders on topics such as Introduction to Python and Git, Python Fundamentals, Conditional Statements, Data Structures, Functions, Libraries , Error Handling , File Operations , Object Oriented Programming, Numpy, Pandas and Matplotlib. 
+What makes YetGen Core Python special compared to other courses is that YetGen places great emphasis on teamwork while teaching these essential skills, just like the Basic program. This way, students gain an even greater and more hands-on understanding of Python.
  
